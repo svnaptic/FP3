@@ -19,5 +19,5 @@ Graph-ical Emulation Program (a.k.a. GrEP)
 A graph generator with a GUI input.
 
 ### Libraries You Plan to Use
-racket/gui
-racket/plot
+* racket/gui
+* racket/plot
